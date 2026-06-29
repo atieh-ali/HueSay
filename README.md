@@ -33,7 +33,7 @@ decisive ("Olive green", "Brick red") rather than just a code you'd have to deco
 
 ## ⬇️ Download (no Python needed)
 
-Grab the latest `HueSay.exe` from the [**Releases**](https://github.com/atieh-ali/huesay/releases) page and
+Grab the latest `HueSay.exe` from the [**Releases**](https://github.com/atieh-ali/HueSay/releases) page and
 double-click it.
 
 > The first time you run it, Windows SmartScreen may say "unknown publisher."

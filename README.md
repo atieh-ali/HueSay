@@ -12,6 +12,7 @@ decisive ("Olive green", "Brick red") rather than just a code you'd have to deco
 
 > Built by someone with red-green colorblindness, for anyone who wants to know what
 > color they're actually looking at. Free to use and free to share.
+<img width="400" height="339" alt="HueSay naming a color under the cursor" src="https://github.com/user-attachments/assets/3f8a193a-fbac-4d8f-a0b5-47d681680fa0" />
 
 ---
 
